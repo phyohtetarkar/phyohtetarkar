@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi, I'm Phyo Htet Arkar
 
-<!--
-**phyohtetarkar/phyohtetarkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="cover.png">
 
-Here are some ideas to get you started:
+I'm a full-stack developer based in Yangon. I'm specializing in developing high quality Back-end services and Native Mobile applications. Also, I'm able to catch up the fast pace changes in technologies and enjoy on researching new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Skills
+
+- Java
+- Kotlin
+- Swift
+- Javascript
+- Python
+- Dart
+- Matlab
+- Octave
+- C++
+- HTML
+- CSS
