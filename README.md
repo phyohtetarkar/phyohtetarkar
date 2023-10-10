@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/phyohtetarkar/phyohtetarkar/master/images/cover3.png">
 
-I'm a full-stack developer. I'm specializing in developing high quality Back-end services and Native Mobile applications. Also, I'm able to catch up the fast pace changes in technologies and enjoy on researching new technologies.
+I'm a full-stack developer. I'm specializing in developing high quality Back-end services and Native/Cross Mobile applications. Also, I'm able to catch up the fast pace changes in technologies and enjoy on researching new technologies.
 
 # Frameworks
 
@@ -18,11 +18,9 @@ I'm a full-stack developer. I'm specializing in developing high quality Back-end
 - Java
 - Kotlin
 - Swift
-- Javascript
+- Javascript/Typescript
 - Python
 - Dart
 - Matlab
 - Octave
 - C++
-- HTML
-- CSS
