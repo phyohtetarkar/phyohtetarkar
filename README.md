@@ -6,7 +6,8 @@ I'm a senior software engineer. I'm specializing in developing high quality Back
 
 # Frameworks
 
-- Spring Development
+- Spring Framework
+- NestJS Framework
 - Java EE 7 Development
 - Native Android & iOS Development
 - Flutter Development
